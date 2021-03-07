@@ -58,4 +58,4 @@ Now push your changes to GitHub
 * Confirm the pull request.
 * Soon we'll merge your pull request into the master branch of this project. You will get a notification email once the changes have been merged.
 
-**Congratulations on creating your first pull request. Happy Open Sourcing!**
+**Congratulations on creating your first pull request. Happy Open Sourcing!♥**
