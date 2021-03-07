@@ -27,7 +27,7 @@ Now create a branch using the `git checkout` command:
 ## 📌Make necessary changes and commit those changes
 * Now open `Contributors.md` file on your text editor and on a new line add 
   ```
-  * (your name)[Link to your github profile] 
+  (your name)[Link to your github profile] 
   ```
   and save the file.
 * Type 
