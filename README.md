@@ -41,7 +41,8 @@ Now create a branch using the `git checkout` command:
   ```
   This command will stage all the changes that you have made in Contributors.md file.
 * Then on the terminal type 
-  ```git commit -m “type a message" 
+  ```
+  git commit -m “type a message" 
   ```
   (Example “added my name to contributors.md file”).
   
