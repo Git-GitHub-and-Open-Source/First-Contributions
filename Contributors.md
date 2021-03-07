@@ -1,3 +1,3 @@
 # Contributors
 
-[Divya Garg](https://github.com/divyagar])
+[Divya Garg](https://github.com/divyagar)
